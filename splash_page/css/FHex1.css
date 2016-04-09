@@ -1,0 +1,36 @@
+/* FHex1.css */
+		body {
+background: url('/Users/joannarives/Dropbox/fire_hose/splash_page/images/back_ground_blue_fog.jpg') no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+
+h1 {
+	font-family: 'Helvetica Neue', Helvetica;
+	font-weight: 100;
+	font-size: 40px;
+	color:white;
+	margin: 0px;
+}
+
+h2 {
+	font-family: 'Helvetica Neue', Helvetica;
+	font-weight: 200;
+	color:white;
+}
+
+p {
+	font-family: 'Helvetica Neue', Helvetica;
+	color:white;
+	font-weight: 150;
+}
+.box {
+	border-radius: 3px;
+	background-color: rgba(255,255,255, 0.3);
+	padding: 20px;
+	width: 300px;
+	margin:100px auto;
+	text-align: justify;
+}
